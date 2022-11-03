@@ -292,7 +292,7 @@ button:hover {
   
 .wrapper {
     color: white;
-    background-image: url("../img/w11.jpg");
+    background-image: url("w11.jpg");
     height: 100vh;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -526,7 +526,7 @@ button:hover {
   /*-----------image---------*/
   /*-----------footer---------*/
 footer {
-    background-image: url("../img/footer.jpg");
+    background-image: url("footer.jpg");
     background-position: center;
     background-size: cover;
     position: relative;
